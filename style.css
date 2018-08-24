@@ -3,7 +3,7 @@ HTML, BODY {
   }
 
 BODY {
-  background: (181, 191, 196);
+  background: rgb(181, 191, 196);
   background-size: .12em 100%;
   font: 16em/1 Arial;
 }
