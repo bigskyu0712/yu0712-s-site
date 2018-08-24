@@ -2,7 +2,7 @@ HTML, BODY {
   height: 100%;
   }
 
-$colors: #330033, #D61C59, #E7D84B, #EFEAC5, #336699;
+$colors: #D61C59, #E7D84B, #EFEAC5;
 
 BODY {
   background: hsl(200,70,11);
